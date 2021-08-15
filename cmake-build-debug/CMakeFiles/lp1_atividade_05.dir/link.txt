@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/lp1_atividade_05.dir/main.cpp.o -o lp1_atividade_05 

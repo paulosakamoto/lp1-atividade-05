@@ -1,0 +1,3 @@
+/home/paulo/Projetos/Unigran/LinguagemDeProgramacao/Atividades/lp1-atividade-05/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/paulo/Projetos/Unigran/LinguagemDeProgramacao/Atividades/lp1-atividade-05/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/paulo/Projetos/Unigran/LinguagemDeProgramacao/Atividades/lp1-atividade-05/cmake-build-debug/CMakeFiles/lp1_atividade_05.dir
